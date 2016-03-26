@@ -1,2 +1,5 @@
-# jsonTableSticky
-Transfer json to sticky table automatically.
+Json To Sticky Table Headers & Columns
+=========
+
+
+
